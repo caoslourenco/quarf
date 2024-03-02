@@ -33,3 +33,4 @@ The tagline "Sparking Endless Futures" encapsulates our mission to ignite inspir
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+![Blue Technological Artificial Intelligence Infographic ](https://github.com/caoslourenco/quarf/assets/18141491/b442c147-eaf3-43e3-8497-7788a2b3585b)
